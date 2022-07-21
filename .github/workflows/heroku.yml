@@ -17,3 +17,4 @@ jobs:
           heroku_app_name: "zhdy-2" #Must be unique in Heroku
           heroku_email: ${{secrets.HEROKU_EMAIL}}
           usedocker: true
+
